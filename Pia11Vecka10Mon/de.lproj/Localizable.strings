@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  Pia11Vecka10Mon
+
+  Created by oscar gynning on 2022-11-14.
+ 
+*/
+"hello" = "hello welt";
+"welcome %@" = "wilkommen %@";
