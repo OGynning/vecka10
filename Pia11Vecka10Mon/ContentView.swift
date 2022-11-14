@@ -78,3 +78,6 @@ struct ContentView_Previews: PreviewProvider {
                 .environment(\.locale, .init(identifier: "se"))
     }
 }
+
+//så mycket bra kod som inte dunkar så bra
+//mer kod
